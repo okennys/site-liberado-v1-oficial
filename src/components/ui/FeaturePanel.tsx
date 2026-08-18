@@ -63,7 +63,9 @@ export default function FeaturePanel({
             )}
 
             <div className="mt-8">
-              <Button href={ctaHref}>{ctaLabel}</Button>
+              <Button href={ctaHref} external={ctaHref.startsWith("http")}>
+                {ctaLabel}
+              </Button>
             </div>
           </div>
 

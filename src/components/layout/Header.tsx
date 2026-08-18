@@ -57,7 +57,7 @@ export default function Header() {
 
           <div className="flex items-center gap-3">
             <div className="hidden lg:block">
-              <Button href={ctaPrincipal.href}>{ctaPrincipal.title}</Button>
+              <Button href={ctaPrincipal.href} external={ctaPrincipal.external}>{ctaPrincipal.title}</Button>
             </div>
 
             <button

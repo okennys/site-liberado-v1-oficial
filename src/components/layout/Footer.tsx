@@ -1,6 +1,7 @@
 import Link from "next/link";
 import LogoMark from "@/components/ui/LogoMark";
 import Button from "@/components/ui/Button";
+import { whatsappLink } from "@/data/whatsapp";
 
 const footerColumns = [
   {
@@ -24,7 +25,7 @@ const footerColumns = [
   {
     title: "Recursos",
     links: [
-      { title: "Planos", href: "/planos" },
+      { title: "Preços", href: "/planos" },
       { title: "Central de Ajuda", href: "/central-de-ajuda" },
       { title: "Documentação API", href: "https://api.liberadoapp.com/docs", external: true },
     ],
@@ -78,7 +79,7 @@ export default function Footer() {
               Informação confiável para decisões mais rápidas. Verificação de pessoas, empresas e
               documentos em uma única plataforma.
             </p>
-            <Button href="/planos" variant="primary" className="w-fit">
+            <Button href={whatsappLink()} external variant="primary" className="w-fit">
               Solicitar Demonstração
             </Button>
           </div>

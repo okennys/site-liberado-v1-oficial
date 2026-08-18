@@ -83,7 +83,6 @@ export default function CentralDeAjudaPage() {
         title="Não encontrou a resposta que procurava?"
         text="Nossa equipe está pronta para ajudar."
         ctaLabel="Entrar em contato com o suporte"
-        ctaHref="mailto:contato@liberadoapp.com"
       />
     </>
   );

@@ -2,6 +2,8 @@
 // (acordeão sempre no DOM) consomem exatamente este mesmo objeto — nada de
 // JSX duplicado entre as duas versões.
 
+import { whatsappLink } from "./whatsapp";
+
 export type NavLink = {
   title: string;
   href: string;
@@ -67,7 +69,7 @@ export const navGroups: NavGroup[] = [
   },
   { title: "Preços", href: "/planos" },
   { title: "Central de Ajuda", href: "/central-de-ajuda" },
-  { title: "Dev", href: "https://api.liberadoapp.com/docs", external: true },
+  { title: "API", href: "https://api.liberadoapp.com/docs", external: true },
   {
     title: "Institucional",
     columns: [
@@ -83,6 +85,5 @@ export const navGroups: NavGroup[] = [
   },
 ];
 
-// Destino provisório: ainda não existe fluxo de cadastro/app definido pelo cliente.
-// Por ora leva para Planos, onde a pessoa pode falar com um consultor.
-export const ctaPrincipal: NavLink = { title: "Teste Grátis", href: "/planos" };
+// CTA principal do site — leva direto para o WhatsApp comercial.
+export const ctaPrincipal: NavLink = { title: "Teste Grátis", href: whatsappLink(), external: true };

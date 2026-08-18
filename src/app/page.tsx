@@ -20,6 +20,7 @@ import BentoCard from "@/components/ui/BentoCard";
 import ScrollBlurQuote from "@/components/ui/ScrollBlurQuote";
 import ClosingCta from "@/components/ui/ClosingCta";
 import { solucoes } from "@/data/solucoes";
+import { whatsappLink } from "@/data/whatsapp";
 
 export const metadata: Metadata = {
   title: "Plataforma de Verificação de Dados e Background Check",
@@ -282,7 +283,9 @@ export default function HomePage() {
           </Reveal>
           <Reveal delay={0.35}>
             <div className="mt-8 flex flex-wrap gap-4">
-              <Button href="/planos">Teste Grátis</Button>
+              <Button href={whatsappLink()} external>
+                Teste Grátis
+              </Button>
               <Button href="#solucoes" variant="outline-light">
                 Ver Soluções
               </Button>
@@ -505,7 +508,7 @@ export default function HomePage() {
             "Atendimento próximo e especializado",
           ]}
           ctaLabel="Teste Grátis"
-          ctaHref="/planos"
+          ctaHref={whatsappLink()}
           aside={
             <PhotoMosaic
               className="aspect-[4/5] w-full grid-cols-2 grid-rows-2"

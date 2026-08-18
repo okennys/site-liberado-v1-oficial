@@ -5,6 +5,7 @@ import Reveal from "@/components/ui/Reveal";
 import SplitHeading from "@/components/ui/SplitHeading";
 import FaqItem from "@/components/ui/FaqItem";
 import ClosingCta from "@/components/ui/ClosingCta";
+import { whatsappLink } from "@/data/whatsapp";
 
 export const metadata: Metadata = {
   title: "Planos",
@@ -148,7 +149,10 @@ export default function PlanosPage() {
                   </ul>
                 </div>
                 <Button
-                  href="mailto:contato@liberadoapp.com"
+                  href={whatsappLink(
+                    `Olá! Gostaria de saber sobre o plano ${plano.nome} (${plano.preco}) e também pedir um teste gratuito.`
+                  )}
+                  external
                   variant={plano.destaque ? "primary" : "ghost"}
                   className="mt-6 w-full"
                 >
@@ -182,7 +186,6 @@ export default function PlanosPage() {
         title="Ainda não sabe qual plano escolher?"
         text="Nossa equipe pode ajudar você a identificar a melhor opção para o seu volume de consultas, integrações e processos."
         ctaLabel="Fale com um consultor"
-        ctaHref="mailto:contato@liberadoapp.com"
       />
     </>
   );

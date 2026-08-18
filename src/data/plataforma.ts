@@ -41,6 +41,7 @@ export const plataforma: PlataformaFeature[] = [
             bullets: [
               "Polícia Civil — pesquisa de antecedentes criminais no website da Polícia Civil do estado",
               "Polícia Federal — pesquisa de antecedentes criminais no website da Polícia Federal do Brasil",
+              "Tribunais Regionais Federais (TRFs) — consulta de certidões e informações processuais nas plataformas dos Tribunais Regionais Federais",
             ],
           },
           {
@@ -62,6 +63,18 @@ export const plataforma: PlataformaFeature[] = [
           {
             title: "Score de Crédito",
             text: "Consulte informações relacionadas a restrições de crédito em bureau de referência no mercado.",
+          },
+          {
+            title: "Dados Sociais",
+            text: "Consulte informações disponíveis sobre a pessoa para apoiar processos de verificação e validação.",
+          },
+          {
+            title: "Dados Societários",
+            text: "Consulte informações sobre vínculos societários, participação em empresas e relações empresariais.",
+          },
+          {
+            title: "Compliance",
+            text: "Consulte informações de compliance, incluindo sanções, PEP e listas internacionais.",
           },
         ],
       },

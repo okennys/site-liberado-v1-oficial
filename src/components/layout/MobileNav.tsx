@@ -128,7 +128,7 @@ export default function MobileNav({ groups, cta, open, onClose }: MobileNavProps
       </nav>
 
       <div className="px-6 py-4">
-        <Button href={cta.href} className="w-full">
+        <Button href={cta.href} external={cta.external} className="w-full">
           {cta.title}
         </Button>
       </div>
