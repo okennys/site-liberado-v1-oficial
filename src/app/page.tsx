@@ -255,7 +255,7 @@ export default function HomePage() {
             priority
             className="object-cover object-[72%_center] sm:object-center"
           />
-          <div className="absolute inset-0 bg-navy-900/70 sm:bg-gradient-to-r sm:from-navy-900 sm:via-navy-900/85 sm:to-navy-900/40" />
+          <div className="absolute inset-0 bg-navy-900/70 sm:bg-transparent sm:bg-gradient-to-r sm:from-navy-900 sm:via-navy-900/85 sm:to-navy-900/40" />
         </div>
 
         <div className="relative max-w-2xl">
@@ -268,7 +268,7 @@ export default function HomePage() {
             text="Verifique pessoas e empresas em até 15 segundos."
           />
           <Reveal delay={0.2}>
-            <p className="mt-6 max-w-xl text-base leading-relaxed text-white/70 sm:text-lg">
+            <p className="mt-6 max-w-xl text-base leading-relaxed text-white/90 sm:text-lg sm:text-white/70">
               Tome decisões mais seguras verificando pessoas, empresas e documentos com dados confiáveis,
               inteligência artificial e múltiplas fontes de informação. O Liberado reúne validação de
               identidade, Background Check, biometria e análise de risco em{" "}
@@ -276,7 +276,7 @@ export default function HomePage() {
             </p>
           </Reveal>
           <Reveal delay={0.28}>
-            <p className="mt-5 text-xs font-bold uppercase tracking-title text-white/40">
+            <p className="mt-5 text-xs font-bold uppercase tracking-title text-white/60 sm:text-white/40">
               Tecnologia com propósito · Confiança em cada decisão
             </p>
           </Reveal>
