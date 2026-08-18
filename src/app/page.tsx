@@ -248,8 +248,14 @@ export default function HomePage() {
       {/* Bloco 1 | Hero */}
       <Section tone="navy" className="relative isolate overflow-hidden pt-28 sm:pt-36">
         <div className="absolute inset-0 -z-10">
-          <Image src="/images/team/hero-oficial.png" alt="" fill priority className="object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-r from-navy-900 via-navy-900/85 to-navy-900/40" />
+          <Image
+            src="/images/team/hero-oficial.png"
+            alt=""
+            fill
+            priority
+            className="object-cover object-[72%_center] sm:object-center"
+          />
+          <div className="absolute inset-0 bg-navy-900/70 sm:bg-gradient-to-r sm:from-navy-900 sm:via-navy-900/85 sm:to-navy-900/40" />
         </div>
 
         <div className="relative max-w-2xl">
@@ -356,15 +362,15 @@ export default function HomePage() {
 
       {/* Bloco 6 | Cover full-bleed (referência: lorolabs.ai — seção sem padding/rounded,
           seguida de uma seção com roundedTop, criando o efeito de "tomar a tela toda") */}
-      <Section tone="navy" bleed className="relative min-h-screen">
+      <Section tone="navy" bleed className="relative min-h-[100svh]">
         <Image src="/images/team/trabalho-01-v2.png" alt="" fill className="object-cover" />
         <div className="absolute inset-0 bg-gradient-to-t from-navy-900/90 via-navy-900/10 to-transparent" />
-        <Reveal className="absolute bottom-8 right-6 sm:bottom-14 sm:right-10 lg:right-16">
-          <div className="max-w-md border-r-2 border-brand-blue py-1 pr-5 text-right sm:pr-6">
+        <Reveal className="absolute inset-x-6 bottom-14 sm:inset-x-auto sm:bottom-14 sm:right-10 lg:right-16">
+          <div className="ml-auto max-w-md border-r-2 border-brand-blue py-1 pr-5 text-right sm:pr-6">
             <p className="text-xs font-bold uppercase tracking-title text-brand-blue sm:text-sm">
               Confiança em cada decisão
             </p>
-            <p className="text-title mt-3 text-xl leading-snug text-white sm:text-2xl lg:text-3xl">
+            <p className="text-title mt-3 text-lg leading-snug text-white sm:text-2xl lg:text-3xl">
               Cada verificação da Liberado é <Highlight tone="navy">registrada e rastreável</Highlight> —
               construída para gerar confiança do primeiro acesso à decisão final.
             </p>
