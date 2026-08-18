@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+/* Paleta oficial da marca Liberado (ver BRAND.md). #fce100 é uso exclusivo em CTA. */
+@theme {
+  --color-brand-blue: #4dc3f0;
+  --color-blue-light: #a8d8ee;
+  --color-tint: #e7edf2;
+  --color-slate-blue: #8fa3be;
+  --color-navy-900: #16233a;
+  --color-navy-800: #14264e;
+  --color-cta-yellow: #fce100;
+
+  --color-background: #e7edf2;
+  --color-foreground: #16233a;
+
+  --font-sans: var(--font-outfit);
+
+  --tracking-title: -0.02em;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+/* Títulos usam peso Black + tracking apertado + kerning ótico, conforme brandbook */
+.text-title {
+  font-weight: 900;
+  letter-spacing: var(--tracking-title);
+  font-kerning: normal;
+  line-height: 1.05;
+}
+
+.text-subtitle {
+  font-weight: 500;
+  letter-spacing: var(--tracking-title);
+  font-kerning: normal;
+}
+
+/* Carrossel de cards (Carousel.tsx) — trilho com scroll nativo, sem barra visível */
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Faixa de logos de clientes (LogoMarquee.tsx) — a trilha renderiza a lista
+   2x seguidas; animar 0 -> -50% faz a 2ª metade (idêntica à 1ª) assumir
+   exatamente a posição inicial no instante em que o loop reinicia, sem costura. */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee {
+    animation: none;
+  }
+}
+
+.logo-marquee-fade {
+  mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+}

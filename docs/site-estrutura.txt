@@ -1,0 +1,1968 @@
+MENU
+Estrutura do Menu | Liberado
+
+Plataforma
+
+     Verificação de Pessoas
+     Verificação de Empresas
+
+Features
+
+     Biometria
+     OCR de Documentos
+     Dados e Análises
+     Inteligência Artificial
+     API e Integrações
+     Recursos da Plataforma
+
+Soluções
+
+Por Mercado
+
+     RH e Recrutamento
+     Varejo
+     Facilities
+     Saúde
+     Indústria
+     Segurança Patrimonial
+     Condomínios
+
+Por Uso
+
+     Contratação Segura
+     Validação de Terceiros
+     Validação Cadastral
+     Prevenção a Fraudes
+     Homologação de Fornecedores
+     Compliance e Gestão de Riscos
+
+Recursos
+
+     Preços
+     Documentação API
+     Central de Ajuda
+
+Institucional
+     Quem Somos
+     Segurança e LGPD
+     Política de Privacidade
+     Termos de Uso
+
+CTA Principal
+Teste Grátis
+HOME
+PÁGINA | Home
+SEO da Página
+URL
+/
+
+Palavra-chave principal
+Plataforma de verificação de dados para empresas
+
+Meta Title
+Plataforma de Verificação de Dados e Background Check | Liberado
+
+Meta Description
+Verifique pessoas, empresas e documentos em segundos com uma plataforma de
+Background Check, validação de identidade, biometria, OCR e análise de risco para
+decisões empresariais mais seguras.
+
+Alt Text Principal
+
+Bloco 1 | Hero
+Tagline - antes de confiar valide
+H1
+Verifique pessoas, empresas e documentos em até 15 segundos para tomar decisões mais
+seguras.
+
+H2
+Tome decisões mais seguras verificando pessoas, empresas e documentos com
+dados confiáveis, inteligência artificial e múltiplas fontes de informação. O Liberado
+reúne validação de identidade, Background Check, biometria e análise de risco em
+uma única plataforma, com interface intuitiva, implementação rápida e planos
+acessíveis para empresas de todos os portes.
+
+CTA Principal
+Teste Grátis
+
+Indicadores de Confiança
+     +400 clientes atendidos;
+     +5 milhões de verificações realizadas;
+     + 200 fontes
+
+(Números validados com o Milton)
+
+Imagem Principal
+SUGESTÃO
+
+     Resultado de consulta;
+     Informações analisadas;
+     Indicadores de risco;
+     Classificação de resultado.
+
+Bloco 2 | Clientes e Prova Social
+H2
+Empresas que já confiam no Liberado.
+
+Estrutura Visual
+Faixa de Logos
+Inserir logos de clientes atendidos para reforçar credibilidade e presença em diferentes
+CTA
+Conheça a plataforma
+
+Bloco 3 | Como funciona a Liberado
+
+1. Copy
+H2
+Como o Liberado transforma dados em decisões mais seguras?
+O Liberado automatiza verificações que antes exigiam pesquisas manuais em
+diferentes sistemas. A plataforma reúne informações de pessoas, empresas e
+documentos, organizando os dados para apoiar decisões mais rápidas e seguras.
+Por meio de integração via API, RPA e conexão com fontes oficiais, a tecnologia
+realiza consultas automatizadas e apresenta os resultados de forma estruturada.
+
+Fluxo em Cards
+Card 1 | Integração com os sistemas da empresa
+A consulta pode ser realizada diretamente pela plataforma Liberado ou integrada aos
+sistemas internos da empresa por meio de API.
+
+Card 2 | Consulta automatizada nas fontes de informação
+A Liberado realiza consultas utilizando integrações tecnológicas com diferentes fontes
+oficiais e bases especializadas.
+Entre elas estão órgãos públicos, tribunais, bases cadastrais e parceiros de informação.
+
+Card 3 | Organização e processamento dos dados
+As informações coletadas são processadas e organizadas pela plataforma, transformando
+dados dispersos em uma análise estruturada. - mantém o histórico
+Card 4 | Resultado para tomada de decisão
+Em poucos segundos, a empresa recebe as informações consolidadas para apoiar seus
+processos de análise e decisão.
+
+Bloco | Tecnologia por trás da Liberado
+H3
+Tecnologia que conecta dados, sistemas e decisões.
+
+Card 1 | Integração via API
+Conecte a Liberado aos sistemas da empresa para automatizar consultas e criar fluxos
+integrados aos processos internos.
+
+Card 2 | Automação via RPA
+Automatize processos de consulta e coleta de informações em diferentes ambientes,
+reduzindo etapas manuais.
+
+Card 3 | Conexão com fontes oficiais e especializadas
+A Liberado integra informações provenientes de fontes públicas e privadas, incluindo órgãos
+oficiais, tribunais e bases especializadas.
+
+Card 4 | Dados organizados em uma única plataforma
+Transforme informações coletadas em análises estruturadas para facilitar a interpretação e
+acelerar decisões.
+
+Bloco 4 | Soluções da Plataforma
+H2
+Tudo o que sua empresa precisa para validar informações em um único lugar.
+
+H3
+Combine consultas, documentos, biometria e análise de dados para diferentes
+necessidades da sua operação.
+
+Estrutura Visual
+Apresentar cards das principais soluções da plataforma.
+Verificação de Pessoas
+Consulte dados cadastrais, antecedentes, processos judiciais, identidade, Facematch e
+informações de crédito a partir do CPF.
+CTA: Conhecer Verificação de Pessoas
+
+Verificação de Empresas
+Consulte dados cadastrais, societários, fiscais, regulatórios, judiciais, compliance e
+informações de crédito a partir do CNPJ.
+CTA: Conhecer Verificação de Empresas
+
+Biometria
+Valide identidades com recursos de Face Match e Prova de Vida (Liveness).
+CTA: Conhecer Biometria
+
+OCR de Documentos
+Extraia informações de documentos para agilizar processos de cadastro, conferência e
+validação.
+CTA: Conhecer OCR
+Dados e Gestão de Risco
+Reúna dados, indicadores, scores e análises para apoiar processos que exigem uma visão
+mais completa das informações.
+CTA: Conhecer Dados e Gestão de Risco
+
+Inteligência Artificial
+Configure agentes e perfis de consulta para analisar informações de acordo com diferentes
+contextos e gerar resumos inteligentes.
+CTA: Conhecer Inteligência Artificial
+
+Recursos da Plataforma
+Simplifique a operação com cadastro em massa, autocadastro, relatórios em PDF e outros
+recursos.
+CTA: Conhecer Recursos da Plataforma
+
+Bloco 5 | Diferenciais do Liberado
+H2
+Mais velocidade, mais inteligência e mais segurança para suas decisões.
+
+Cards de Diferenciais
+Verificações em até 15 segundos
+Tenha acesso rápido aos resultados para agilizar processos e tomar decisões com mais
+eficiência.
+
++200 fontes de informação
+Conecte dados de diferentes fontes para realizar análises mais completas de pessoas,
+empresas e documentos.
+Inteligência Artificial aplicada aos resultados
+Receba uma classificação de risco baseada nas informações analisadas para facilitar a
+interpretação dos dados.
+
+Tudo em uma única plataforma
+Reúna verificações de pessoas, empresas, documentos, biometria e análises em um único
+ambiente.
+
+Integração via API
+Conecte as soluções do Liberado aos sistemas utilizados pela sua empresa.
+
+Atendimento próximo e especializado
+Conte com suporte ágil e atendimento humanizado para tirar dúvidas e aproveitar melhor a
+plataforma.
+
+Bloco 6 | Soluções por Mercado
+H2
+Soluções adaptadas aos desafios de cada mercado.
+
+H3
+Tecnologia para apoiar processos de contratação, cadastro, homologação e relacionamento
+com pessoas, empresas e parceiros.
+
+Estrutura Visual
+Apresentar cards por segmento:
+RH e Recrutamento
+Verifique candidatos e colaboradores para apoiar processos de contratação mais seguros.
+Varejo
+Apoie processos de contratação, prevenção a fraudes e relacionamento com clientes e
+parceiros.
+
+Facilities
+Valide profissionais e terceiros para aumentar a segurança operacional.
+
+Saúde
+Apoie processos que exigem validação de informações e maior controle operacional.
+
+Indústria
+Fortaleça processos de contratação, fornecedores e gestão de terceiros.
+
+Segurança Patrimonial
+Valide profissionais e informações para operações que exigem maior controle.
+
+Condomínios
+Aumente a segurança na validação de prestadores, colaboradores e visitantes.
+
+CTA
+Conheça as soluções por mercado
+Bloco 7 | CTA Final
+H2
+Simplifique verificações com uma plataforma completa.
+H3
+Teste o Liberado gratuitamente e tenha acesso a dados, tecnologia e análises para verificar
+pessoas, empresas e documentos de forma mais rápida.
+
+CTA
+Teste Grátis
+RODAPÉ
+Rodapé
+Frase institucional
+Informação confiável para decisões mais rápidas.
+
+Coluna 1 | Plataforma
+Links
+
+     Verificação de pessoas
+     Verificação de empresas
+
+Coluna 2 | Soluções
+Links
+
+     Soluções por Mercado
+     Contratação Segura
+     Gestão de Terceiros
+     Prevenção a Fraudes
+     Homologação de Fornecedores
+     Compliance e Gestão de Riscos
+
+Coluna 3 | Recursos
+Links
+
+     Central de Ajuda
+     Documentação API
+
+Coluna 4 | Institucional
+Links
+
+     Quem Somos
+     Segurança e LGPD
+     Política de Privacidade
+     Termos de Uso
+
+CTA
+Solicitar Demonstração
+Planos
+
+Rodapé Inferior
+© 2026 Liberado. Todos os direitos reservados.
+Links:
+
+     Política de Privacidade
+     Termos de Uso
+PLATAFORMA - Verificação de
+pessoas
+PÁGINA | Verificação de Pessoas
+SEO da Página
+URL
+/verificacao-de-pessoas
+
+Palavra-chave principal
+Verificação de Pessoas
+
+Meta Title
+Verificação de Pessoas por CPF | Dados e Consultas
+
+Meta Description
+Verifique pessoas por CPF com dados cadastrais, antecedentes, processos judiciais,
+mandados de prisão e informações de crédito em uma única plataforma.
+
+H1
+Verifique pessoas por CPF com informações completas para suas análises.
+
+H2
+Dados cadastrais, antecedentes, processos e informações de crédito reunidos em
+uma única consulta.
+
+H3
+A partir do CPF, o Liberado reúne informações de diferentes fontes para apoiar
+análises de candidatos, colaboradores, prestadores e outros profissionais.
+O que pode ser verificado
+Dados Cadastrais
+Consulte informações básicas da pessoa, como:
+
+     Nome;
+     CPF;
+     Filiação;
+     Gênero;
+     Data de nascimento;
+     Outras informações cadastrais disponíveis.
+
+Antecedentes Criminais
+Consulte antecedentes criminais diretamente em fontes oficiais, com emissão de
+certidão.
+Polícia Civil
+Pesquisa de antecedentes criminais no website da Polícia Civil do estado.
+Polícia Federal
+Pesquisa de antecedentes criminais no website da Polícia Federal do Brasil.
+
+Mandados de Prisão
+Pesquise mandados de prisão no website do CNJ, com emissão de certidão.
+
+Facematch Procurados
+Compare a biometria facial com base de imagens de procurados.
+
+Processos Judiciais
+Pesquise processos judiciais nas esferas cível e criminal.
+Autenticação
+Valide a identidade da pessoa na base oficial do Governo Federal.
+
+Score de Crédito
+Consulte informações relacionadas a restrições de crédito em bureau de referência
+no mercado.
+
+Aplicações
+Contratação
+Tenha mais informações sobre candidatos antes de avançar no processo de
+admissão.
+
+Validação de Terceiros
+Consulte informações de prestadores, parceiros e outros profissionais.
+
+Cadastro e Acesso
+Agilize processos que exigem identificação e conferência de dados.
+
+Análise de Risco
+Reúna informações relevantes para processos que exigem uma avaliação mais
+completa.
+
+CTA
+Teste Grátis
+PLATAFORMA - Verificação de
+empresas
+PÁGINA | Verificação de Empresas
+SEO da Página
+URL
+/verificacao-de-empresas
+
+Palavra-chave principal
+Verificação de Empresas
+
+Meta Title
+Verificação de Empresas por CNPJ | Dados e Análises Empresariais
+
+Meta Description
+Verifique empresas por CNPJ com dados cadastrais, societários, fiscais, regulatórios,
+judiciais e indicadores de risco em uma única plataforma.
+
+H1
+Verifique empresas por CNPJ com informações completas para suas análises.
+
+H2
+Dados empresariais, societários, fiscais e regulatórios reunidos em uma única
+análise.
+
+H3
+A partir do CNPJ, o Liberado reúne informações de diferentes fontes para ajudar sua
+empresa a avaliar fornecedores, parceiros e relacionamentos comerciais.
+O que pode ser verificado
+
+Dados Cadastrais
+Consulte informações básicas da empresa, como:
+
+     CNPJ;
+     Razão Social;
+     Endereço;
+     Telefone;
+     E-mail;
+     Quadro Societário.
+
+Dados Societários
+Consulte informações relacionadas aos sócios, responsáveis pela empresa e seus
+vínculos societários.
+
+Dados Fiscais e Tributários
+Consulte informações relacionadas a:
+
+     Débitos inscritos em dívida ativa;
+     PGFN;
+     Sefaz;
+     Situação fiscal;
+     Certidões disponíveis.
+
+Dados Trabalhistas
+Consulte informações relacionadas a:
+
+     Débitos trabalhistas;
+     FGTS;
+     PGFN;
+     Certidão Negativa de Débitos Trabalhistas.
+
+Transparência e Compliance
+Consulte informações relacionadas a:
+     PEP;
+     Listas Restritivas;
+     Empresas Inidôneas e Suspensas;
+     CNEP;
+     CNJ;
+     TCU;
+     MPF.
+
+Dados Regulatórios
+Consulte informações relacionadas a:
+
+     Licenças e autorizações;
+     Regularidade de empresas de segurança privada;
+     Alvará de funcionamento;
+     Regularidade ANTT.
+
+Processos Judiciais
+Pesquise informações relacionadas a:
+
+     Processos cíveis;
+     Processos criminais;
+     Inquéritos civis;
+     Inquéritos criminais;
+     Procedimentos extrajudiciais no MPF.
+
+Protesto Nacional
+Pesquise informações relacionadas ao risco de crédito de uma empresa no mercado.
+
+Score de Crédito
+Consulte informações relacionadas a:
+
+     Score de crédito empresarial;
+     Restrições de crédito.
+Aplicações
+Homologação de Fornecedores
+Tenha mais informações antes de iniciar ou manter relações comerciais.
+
+Análise de Parceiros
+Avalie informações empresariais antes de novos negócios e parcerias.
+
+Compliance e Due Diligence
+Reúna informações cadastrais, societárias, regulatórias e de transparência para
+apoiar processos de análise empresarial.
+
+Gestão de Terceiros
+Centralize informações de empresas que fazem parte da sua operação.
+
+CTA
+Teste Grátis
+PLATAFORMA - Biometria Facial
+PÁGINA | Biometria
+SEO da Página
+URL
+/biometria
+
+Palavra-chave principal
+Biometria Facial
+
+Meta Title
+Biometria Facial com Facematch e Liveness | Liberado
+
+Meta Description
+Valide identidades com biometria facial, Facematch e Liveness integrados à
+plataforma Liberado para processos mais seguros e eficientes.
+
+H1
+Valide identidades com biometria facial integrada à sua análise.
+
+H2
+Combine biometria, dados e inteligência para identificar pessoas com mais
+segurança.
+
+H3
+O Liberado utiliza recursos de biometria facial para comparar identidades e apoiar
+processos que exigem confirmação de uma pessoa.
+Recursos de Biometria
+Facematch
+Compare imagens faciais para verificar se a pessoa corresponde à identidade
+apresentada.
+
+Liveness - verificar com o Henrique para entender se vale trazer isso aqui.
+Identifique se a captura facial está sendo realizada por uma pessoa real durante o
+processo de validação.
+
+Aplicações
+Contratação e Recrutamento
+Apoie processos que precisam confirmar a identidade de candidatos.
+
+Cadastro de Clientes e Usuários
+Adicione uma camada de identificação em processos digitais.
+
+Controle de Parceiros e Prestadores
+Auxilie na confirmação de identidade em operações com terceiros.
+
+CTA
+Teste Grátis
+PLATAFORMA - OCR de Documentos
+PÁGINA | OCR de Documentos
+
+SEO da Página
+
+URL
+
+/ocr-de-documentos
+
+Palavra-chave principal
+OCR de Documentos
+
+Meta Title
+OCR de Documentos | Extração e Análise de Informações | Liberado
+
+Meta Description
+Extraia informações de documentos automaticamente com OCR integrado ao
+Liberado para agilizar análises, validações e processos digitais.
+
+H1
+Extraia informações de documentos de forma rápida e inteligente.
+
+H2
+Transforme documentos em dados estruturados para facilitar análises e processos.
+
+H3
+O Liberado utiliza OCR para identificar e extrair informações de documentos,
+reduzindo processos manuais e facilitando a análise dos dados apresentados.
+
+Recursos de OCR cards
+Extração automática de informações
+Capture dados presentes em documentos para agilizar processos de análise.
+
+Organização de dados
+Transforme informações documentais em dados estruturados para facilitar consultas
+e verificações.
+
+Apoio à análise de identidade
+Utilize informações extraídas de documentos junto a outras camadas de verificação
+da plataforma.
+
+Aplicações cards
+Recrutamento e Seleção
+Agilize processos que envolvem análise de documentos de candidatos.
+
+Cadastro de Pessoas
+Facilite a conferência de informações documentais em novos cadastros.
+
+Processos Operacionais
+Reduza atividades manuais relacionadas à leitura e organização de documentos.
+CTA
+Teste Grátis
+PLATAFORMA - Dados e Análises
+PÁGINA | Dados e Análises
+SEO da Página
+URL
+/dados-e-analises
+
+Palavra-chave principal
+Análise de Dados para Empresas
+
+Meta Title
+Análise de Dados e Informações Empresariais | Liberado
+
+Meta Description
+Organize dados de pessoas e empresas com análises inteligentes, indicadores e
+classificação de informações para apoiar processos mais seguros.
+
+H1
+Transforme dados em informações para análises mais inteligentes.
+
+H2
+Reúna informações de diferentes fontes e visualize resultados de forma organizada.
+
+H3
+O Liberado utiliza os dados analisados para apresentar indicadores e uma
+classificação de informações que facilitam a interpretação dos resultados.
+Recursos de Dados e Análises - Cards
+Informações organizadas
+Centralize dados coletados durante as verificações para facilitar a análise.
+
+Indicadores de análise
+Visualize informações relevantes para apoiar avaliações de pessoas e empresas.
+
+Classificação com Inteligência Artificial
+Utilize uma análise inteligente baseada nos dados consultados para facilitar a
+interpretação dos resultados.
+
+Diferentes tipos de informações
+Analise dados como:
+
+     Dados cadastrais;
+     Antecedentes;
+     Informações empresariais;
+     Dados documentais;
+     Indicadores financeiros.
+
+Aplicações - cards
+Recrutamento e Seleção
+Apoie análises de candidatos com informações organizadas.
+
+Fornecedores e Parceiros
+Tenha uma visão mais completa antes de iniciar relacionamentos comerciais.
+Processos Internos
+Facilite análises que dependem de múltiplas informações.
+
+CTA
+Teste Grátis
+PLATAFORMA - Inteligência Artificial
+PÁGINA | Inteligência Artificial
+SEO da Página
+URL
+/inteligencia-artificial
+
+Palavra-chave principal
+Inteligência Artificial
+
+Meta Title
+Inteligência Artificial para Análise de Dados | Liberado
+
+Meta Description
+Utilize Inteligência Artificial para configurar análises, interpretar informações e gerar
+resumos inteligentes de pessoas e empresas.
+
+H1
+Uma Inteligência Artificial configurada para o contexto da sua análise.
+
+H2
+Configure diferentes agentes para analisar informações de acordo com cada perfil de
+consulta.
+
+H3
+O Liberado permite configurar agentes de Inteligência Artificial de acordo com os
+critérios e contextos definidos pela sua empresa.
+Agentes de IA
+Agentes configuráveis
+Configure diferentes agentes de Inteligência Artificial para atender necessidades
+específicas de análise.
+
+Análises por contexto
+Defina o contexto em que cada agente deve atuar e quais informações devem ser
+consideradas durante a análise.
+
+Critérios personalizados
+Configure os critérios utilizados pelos agentes de acordo com as necessidades da
+sua operação.
+
+Perfis de Consulta
+Diferentes perfis para diferentes necessidades
+Crie perfis de consulta específicos para cada tipo de análise realizada pela empresa.
+
+Consultas selecionadas
+Defina quais consultas e informações fazem parte de cada perfil.
+
+IA aplicada ao perfil
+Associe agentes de Inteligência Artificial aos perfis de consulta para analisar os
+resultados de acordo com o contexto definido.
+Resumo Inteligente
+Os principais pontos da análise em um único resumo
+A Inteligência Artificial reúne os principais pontos encontrados durante as consultas
+e apresenta um resumo das informações relevantes.
+
+Mais clareza sobre os resultados
+Tenha uma visão consolidada das informações encontradas sem precisar interpretar
+cada resultado separadamente.
+
+CTA
+Conheça o Liberado
+PLATAFORMA - API e Integrações
+PÁGINA | API e Integrações
+SEO da Página
+URL
+/api-integracoes
+
+Palavra-chave principal
+API de Verificação de Dados
+
+Meta Title
+API de Verificação de Dados e Integrações | Liberado
+
+Meta Description
+Integre as soluções do Liberado aos seus sistemas por meio de API para automatizar
+verificações de pessoas, empresas e documentos.
+
+H1
+Integre verificações de pessoas, empresas e documentos aos seus sistemas.
+
+H2
+Automatize processos conectando o Liberado às ferramentas da sua operação.
+
+H3
+Por meio de API, sua empresa pode integrar as soluções do Liberado aos seus
+sistemas e utilizar dados e análises dentro dos próprios fluxos operacionais.
+Recursos da API - Cards
+Integração com sistemas próprios
+Conecte as soluções do Liberado às plataformas utilizadas pela sua empresa.
+
+Automação de processos
+Reduza etapas manuais ao inserir verificações diretamente nos seus fluxos.
+
+Acesso aos resultados das análises
+Utilize as informações retornadas pelo Liberado dentro das aplicações integradas.
+
+Escalabilidade operacional
+Realize verificações de acordo com a necessidade da sua operação.
+
+Aplicações - Cards
+Recrutamento e Seleção
+Integre verificações aos sistemas utilizados por RH e recrutamento.
+
+Plataformas e Sistemas Internos
+Inclua consultas e análises dentro dos seus próprios processos.
+
+Operações com Alto Volume
+Automatize verificações realizadas frequentemente pela empresa.
+CTA
+Teste Grátis
+PLATAGORMA - Recursos da
+Plataforma
+PÁGINA | Recursos da Plataforma
+SEO da Página
+URL
+/recursos-da-plataforma
+
+Palavra-chave principal
+Recursos da Plataforma
+
+Meta Title
+Recursos da Plataforma | Liberado
+
+Meta Description
+Conheça os recursos do Liberado para agilizar cadastros, consultas, análises e
+gestão das informações em uma única plataforma.
+
+H1
+Recursos que tornam sua operação mais simples e eficiente.
+
+H2
+Do cadastro ao relatório, menos etapas manuais no dia a dia.
+
+H3
+O Liberado reúne recursos para facilitar operações com diferentes volumes de
+consultas e tornar processos recorrentes mais ágeis.
+Recursos da Plataforma
+Cadastro em Massa
+Cadastre múltiplas pessoas ou empresas de uma só vez.
+
+Convite para Autocadastro
+Envie um convite para que a própria pessoa ou empresa realize seu cadastro.
+
+Relatórios em PDF
+Gere relatórios com os resultados das análises para consulta, registro e
+compartilhamento.
+
+Perfis de Consulta
+Crie diferentes configurações de consulta de acordo com cada operação ou
+necessidade.
+
+Automação de Processos
+Reduza tarefas manuais em processos recorrentes e ganhe agilidade na operação.
+
+Gestão Centralizada
+Concentre cadastros, consultas e resultados em um único ambiente.
+
+Aplicações
+Operações com Alto Volume
+Simplifique processos que envolvem grande quantidade de cadastros e consultas.
+Processos Recorrentes
+Padronize atividades que fazem parte da rotina da sua equipe.
+
+Gestão de Consultas
+Organize diferentes perfis e necessidades de consulta em um único ambiente.
+
+CTA
+Conheça o Liberado
+SOLUÇÕES MERCADO- RH e
+Recrutamento
+PÁGINA | Soluções para RH e Recrutamento
+SEO da Página
+URL
+/solucoes/rh-recrutamento
+
+Palavra-chave principal
+Background Check para RH
+
+Meta Title
+Background Check para RH | Contratação Mais Segura | Liberado
+
+Meta Description
+Apoie processos de recrutamento com mais informações sobre candidatos, reduzindo
+incertezas e trazendo mais agilidade para decisões de contratação.
+
+H1
+Contrate melhor com informações completas antes da admissão.
+
+H2
+Mais informações para apoiar processos seletivos e reduzir incertezas na contratação.
+
+H3
+O Liberado auxilia equipes de RH e recrutamento a analisarem candidatos antes da
+admissão, reunindo informações relevantes em uma única plataforma.
+Como o Liberado apoia o RH
+Mais informações antes da contratação
+Tenha uma visão mais completa dos candidatos para complementar o processo seletivo.
+
+Mais agilidade para recrutadores
+Reduza o tempo gasto na busca e organização de informações durante as etapas de
+contratação.
+
+Processos mais padronizados
+Utilize critérios consistentes para apoiar análises em diferentes processos seletivos.
+
+Impactos para a operação de RH
+Apoio na redução de contratações inadequadas
+Tenha mais informações antes da admissão para reduzir incertezas durante a escolha de
+candidatos.
+
+Apoio ao controle de turnover
+Contratações mais estruturadas podem contribuir para processos seletivos mais alinhados
+às necessidades da empresa.
+
+Mais produtividade para a equipe
+Reduza atividades operacionais e permita que o RH dedique mais tempo às atividades
+estratégicas.
+CTA
+Teste Grátis
+Atendimento pós e atendimento humano
+SOLUÇÕES MERCADO - Varejo
+PÁGINA | Soluções para Varejo
+SEO da Página
+URL
+/solucoes/varejo
+
+Palavra-chave principal
+Background Check para Varejo
+
+Meta Title
+Background Check para Varejo | Mais Segurança Operacional | Liberado
+
+Meta Description
+Apoie decisões no varejo com informações de pessoas e empresas, análises
+inteligentes e uma plataforma completa para reduzir incertezas.
+
+H1
+Mais confiança para decisões que movimentam o varejo.
+
+H2
+Informações, tecnologia e análises para apoiar operações com alto volume de
+pessoas e empresas.
+
+H3
+O Liberado reúne dados de diferentes fontes, verificações e análises inteligentes para
+ajudar empresas varejistas a avaliar pessoas, parceiros e relacionamentos
+importantes para a operação.
+
+Como o Liberado apoia o Varejo
+Pessoas e colaboradores
+Apoie processos que envolvem colaboradores e profissionais que fazem parte da
+operação, trazendo mais informações para análises internas.
+
+Parceiros e terceiros
+Tenha mais informações antes de iniciar ou manter relacionamentos com
+profissionais e empresas que fazem parte da cadeia operacional.
+
+Operações em escala
+Utilize uma plataforma preparada para empresas que precisam analisar grandes
+volumes de informações com agilidade.
+
+Segurança operacional
+Fortaleça processos internos com informações organizadas para reduzir incertezas
+em decisões do dia a dia.
+
+Benefícios para o Varejo
+Mais agilidade na operação
+Reduza processos manuais e tenha informações organizadas em menos tempo.
+
+Mais controle e padronização
+Aplique critérios consistentes em diferentes áreas, unidades e operações.
+Proteção da marca
+Apoie decisões mais estruturadas em processos que impactam clientes,
+colaboradores e parceiros.
+
+Atendimento próximo e suporte especializado
+Conte com apoio durante a utilização da plataforma para garantir uma melhor
+experiência operacional.
+
+CTA
+Teste Grátis
+
+Coloca logos de clientes do varejo e documento para baixar - dado específico para
+cada mercado - ex: o quanto do setor de varejo perde por causa de fraude.
+Evidenciar dor por segmento
+SOLUÇÕES MERCADO - Facilities
+PÁGINA | Soluções para Facilities
+SEO da Página
+URL
+/solucoes/facilities
+
+Palavra-chave principal
+Background Check para Facilities
+
+Meta Title
+Background Check para Facilities | Gestão de Terceiros | Liberado
+
+Meta Description
+Apoie operações de facilities com informações de pessoas e empresas para melhorar
+processos de análise, gestão de terceiros e segurança operacional.
+
+H1
+Mais confiança para operações que dependem de pessoas.
+
+H2
+Informações e análises para apoiar a gestão de profissionais, terceiros e parceiros
+em operações de facilities.
+
+H3
+O Liberado ajuda empresas de facilities a analisar informações de pessoas e
+empresas envolvidas na operação, trazendo mais controle e agilidade para processos
+que exigem confiança.
+
+Como o Liberado apoia Facilities
+Gestão de profissionais terceirizados
+Tenha mais informações sobre profissionais envolvidos em contratos e operações
+realizadas nos clientes.
+
+Apoio na entrada de novos profissionais
+Estruture processos de análise antes da atuação de colaboradores em diferentes
+ambientes.
+
+Análise de parceiros e empresas
+Tenha informações para apoiar relacionamentos com empresas terceirizadas e prestadores
+envolvidos na operação.
+
+Operações em diferentes locais
+Centralize informações e mantenha critérios consistentes em contratos, unidades e clientes
+distintos.
+
+Benefícios para Facilities
+Mais confiança na operação
+Apoie decisões relacionadas a pessoas e empresas que representam sua operação dentro
+dos clientes.
+
+Mais controle sobre terceiros
+Tenha informações organizadas para auxiliar processos de gestão e relacionamento.
+
+Mais agilidade operacional
+Reduza etapas manuais e facilite análises necessárias para movimentações de
+profissionais.
+
+Proteção da reputação da empresa
+Fortaleça processos internos em operações onde confiança e qualidade são essenciais.
+
+CTA
+Teste Grátis
+SOLUÇÕES MERCADO - Saúde
+PÁGINA | Soluções para Saúde
+SEO da Página
+URL
+/solucoes/saude
+
+Palavra-chave principal
+Background Check para Saúde
+
+Meta Title
+Background Check para Saúde | Segurança e Confiança | Liberado
+
+Meta Description
+Apoie instituições de saúde com informações e análises para processos envolvendo
+profissionais, parceiros e operações que exigem confiança.
+
+H1
+Mais confiança para decisões em ambientes onde as pessoas importam.
+
+H2
+Informações organizadas para apoiar processos envolvendo profissionais, parceiros
+e instituições de saúde.
+
+H3
+O Liberado auxilia empresas e instituições de saúde a analisarem informações
+relevantes de pessoas e empresas envolvidas em suas operações.
+Como o Liberado apoia a Saúde
+Profissionais e equipes assistenciais
+Apoie processos que envolvem pessoas que atuam diretamente em ambientes de cuidado e
+atendimento.
+
+Empresas terceirizadas e prestadores
+Tenha mais informações sobre parceiros envolvidos em serviços essenciais para a
+operação.
+
+Processos com maior necessidade de confiança
+Utilize informações organizadas para apoiar decisões em ambientes que exigem atenção e
+responsabilidade.
+
+Gestão de relacionamentos
+Centralize informações de pessoas e empresas envolvidas na operação da instituição.
+
+Benefícios para Saúde
+Mais segurança nos processos internos
+Apoie decisões com informações estruturadas antes de estabelecer relações profissionais
+ou comerciais.
+
+Mais controle operacional
+Tenha uma visão mais organizada das informações utilizadas nos processos da instituição.
+
+Mais eficiência na análise de informações
+Reduza tempo gasto em consultas dispersas e reúna informações em uma única
+plataforma.
+
+Fortalecimento da confiança
+Demonstre processos mais estruturados para colaboradores, parceiros e pacientes.
+
+CTA
+Teste Grátis
+SOLUÇÕES MERCADO - Indústria
+PÁGINA | Soluções para Indústria
+SEO da Página
+URL
+/solucoes/industria
+
+Palavra-chave principal
+Background Check para Indústria
+
+Meta Title
+Background Check para Indústria | Análise de Fornecedores e Parceiros | Liberado
+
+Meta Description
+Analise informações de pessoas e empresas envolvidas na operação industrial,
+fornecedores e parceiros para relações mais seguras.
+
+H1
+Mais confiança para relações que movimentam a indústria.
+
+H2
+Informações de pessoas e empresas para apoiar decisões na cadeia operacional e de
+negócios.
+
+H3
+O Liberado ajuda empresas industriais a analisar fornecedores, parceiros,
+prestadores e profissionais envolvidos em processos estratégicos da operação.
+Como o Liberado apoia a Indústria
+Fornecedores e parceiros comerciais
+Tenha mais informações sobre empresas que fazem parte da sua cadeia de relacionamento
+antes de iniciar ou ampliar negócios.
+
+Terceiros com acesso à operação
+Apoie processos envolvendo empresas e profissionais externos que atuam dentro das
+instalações industriais.
+
+Análises para processos de negócio
+Reúna informações relevantes para apoiar avaliações relacionadas a novos
+relacionamentos e operações.
+
+Gestão de informações em escala
+Centralize análises de diferentes envolvidos na operação em uma única plataforma.
+
+Benefícios para Indústria
+Mais segurança nas relações empresariais
+Tenha informações adicionais antes de estabelecer conexões comerciais e operacionais.
+
+Mais controle sobre a cadeia de parceiros
+Apoie processos internos envolvendo fornecedores, terceiros e empresas relacionadas.
+
+Redução de incertezas operacionais
+Conte com informações organizadas para apoiar avaliações importantes para o negócio.
+
+Processos mais estruturados
+Padronize análises e facilite decisões em diferentes áreas da organização.
+
+CTA
+Teste Grátis
+SOLUÇÕES MERCADO -
+Condomínios
+PÁGINA | Soluções para Condomínios
+SEO da Página
+URL
+/solucoes/condominios
+
+Palavra-chave principal
+Verificação de pessoas para Condomínios
+
+Meta Title
+Verificação de pessoas para Condomínios | Mais Agilidade e Segurança | Liberado
+
+Meta Description
+Analise informações de pessoas e empresas em poucos segundos para apoiar
+liberações, cadastros e processos da gestão condominial com mais confiança.
+
+H1
+Mais agilidade e confiança para processos condominiais.
+
+H2
+Em poucos segundos, tenha informações e análises para apoiar decisões sobre
+pessoas e empresas.
+
+H3
+O Liberado reúne dados de diferentes fontes e apresenta análises inteligentes para
+auxiliar administradoras e condomínios em processos que envolvem moradores,
+prestadores e empresas.
+
+Como o Liberado apoia Condomínios
+Liberação mais rápida de prestadores
+Agilize processos envolvendo profissionais que precisam acessar o condomínio para
+realizar serviços, com informações organizadas para apoiar a análise.
+
+Análise de empresas terceirizadas
+Consulte informações de empresas envolvidas na operação condominial antes de
+estabelecer relacionamentos ou contratar serviços.
+
+Mais agilidade para administradoras
+Reduza tempo gasto em buscas manuais e facilite processos que dependem de
+informações confiáveis.
+
+Controle de pessoas e empresas
+Tenha uma visão mais completa dos envolvidos na rotina do condomínio, apoiando
+processos internos de gestão.
+
+Benefícios para Condomínios
+Processos mais rápidos
+Tenha informações disponíveis em menos tempo para apoiar liberações e cadastros.
+
+Mais confiança na gestão
+Apoie decisões com dados organizados sobre pessoas e empresas.
+Melhor experiência para moradores
+Torne processos de entrada, cadastro e relacionamento mais eficientes.
+
+Gestão mais estruturada
+Centralize informações utilizadas pela administração condominial.
+
+CTA
+Teste Grátis
+SOLUÕES CASO DE USO -
+Contratação de Colaboradores
+PÁGINA | Contratação segura
+
+SEO
+URL
+/solucoes/contratacao-de-colaboradores
+Palavra-chave principal
+Background Check para Contratação
+Meta Title
+Background Check para Contratação de Colaboradores | Liberado
+Meta Description
+Reduza incertezas antes da contratação com informações, verificações e análises
+inteligentes sobre candidatos.
+
+Hero
+
+H1
+Contrate com mais confiança desde o primeiro contato.
+H2
+Antes de uma contratação, conhecer melhor quem fará parte da sua equipe pode fazer toda
+a diferença.
+O Liberado reúne informações de diferentes fontes para apoiar processos admissionais com
+mais agilidade e segurança.
+
+Como o Liberado atua
+O Liberado centraliza verificações e informações em uma única plataforma, permitindo que
+o RH tenha uma visão mais completa antes da admissão.
+As análises acontecem em poucos segundos e podem ser incorporadas ao fluxo de
+contratação da empresa.
+Fluxo do processo
+Recebimento do candidato
+
+Consulta automática
+
+Informações organizadas
+
+Análise dos resultados
+
+Apoio à decisão da equipe de RH
+
+Benefícios
+Mais agilidade na contratação
+Reduza tempo gasto com consultas realizadas em diferentes sistemas.
+
+Processos mais consistentes
+Padronize critérios para diferentes vagas e unidades.
+
+Mais confiança
+Tenha informações adicionais antes da admissão de novos colaboradores.
+
+Melhor experiência para o RH
+Automatize etapas operacionais e permita que a equipe foque na seleção dos melhores
+profissionais.
+CTA
+Solicite uma demonstração
+Veja como o Liberado pode apoiar os processos de contratação da sua empresa.
+SOLUÇÕES CASO DE USO -
+Contratação de
+PÁGINA | Gestão de Terceiros
+SEO
+URL
+/solucoes/gestao-de-terceiros
+Palavra-chave principal
+Gestão de Terceiros
+Meta Title
+Gestão de Terceiros | Mais Controle sobre Pessoas e Empresas | Liberado
+Meta Description
+Tenha mais controle sobre terceiros, prestadores e empresas parceiras com informações e
+análises reunidas em uma única plataforma.
+
+Hero
+H1
+Mais controle sobre quem faz parte da sua operação.
+H2
+Profissionais terceirizados, prestadores de serviço e empresas parceiras fazem parte da
+rotina de milhares de organizações. Conhecer melhor quem atua na sua operação ajuda a
+reduzir riscos e padronizar processos.
+
+Como o Liberado atua
+O Liberado centraliza informações de pessoas e empresas em uma única plataforma,
+permitindo consultas rápidas e análises organizadas para apoiar a gestão de terceiros
+durante todo o relacionamento.
+
+Fluxo do processo
+Cadastro do terceiro ou empresa
+
+Consulta automática em múltiplas fontes
+
+Organização das informações
+
+Análise dos resultados
+
+Apoio à gestão e continuidade da operação
+
+Benefícios
+Mais controle sobre terceiros
+Tenha informações organizadas sobre profissionais e empresas que fazem parte da
+operação.
+
+Processos mais ágeis
+Reduza o tempo gasto em consultas manuais e facilite análises recorrentes.
+
+Gestão padronizada
+Utilize critérios consistentes para diferentes contratos, unidades e operações.
+
+Mais confiança para a operação
+Apoie decisões relacionadas a terceiros com informações reunidas em um único ambiente.
+
+CTA
+Solicite uma demonstração
+Descubra como o Liberado pode apoiar a gestão de terceiros da sua empresa.
+SOLUÇÕES CASO DE USO -
+Homologação
+PÁGINA | Homologação de Fornecedores
+SEO
+URL
+/solucoes/homologacao-de-fornecedores
+Palavra-chave principal
+Homologação de Fornecedores
+Meta Title
+Homologação de Fornecedores | Avalie Empresas com Mais Confiança | Liberado
+Meta Description
+Analise informações de fornecedores e empresas antes de iniciar novos contratos e
+fortaleça seus processos de homologação.
+
+Hero
+H1
+Conheça melhor seus fornecedores antes de fechar negócio.
+H2
+Escolher um fornecedor vai muito além de preço e prazo. Tenha acesso a informações que
+ajudam sua empresa a avaliar parceiros com mais confiança antes de iniciar uma nova
+relação comercial.
+
+Como o Liberado atua
+O Liberado reúne informações empresariais em uma única plataforma, facilitando processos
+de homologação e apoiando equipes responsáveis pela avaliação de fornecedores e
+parceiros comerciais.
+
+Fluxo do processo
+Cadastro da empresa
+
+Consulta em diferentes bases de informação
+
+Organização dos dados
+
+Análise da empresa
+
+Apoio ao processo de homologação
+
+Benefícios
+Homologações mais ágeis
+Reduza o tempo necessário para reunir informações antes da aprovação de novos
+fornecedores.
+
+Mais confiança nas relações comerciais
+Conte com informações organizadas para apoiar avaliações de empresas parceiras.
+
+Processos mais padronizados
+Utilize critérios consistentes para homologações em diferentes áreas da organização.
+
+Melhor gestão da cadeia de fornecedores
+Centralize informações utilizadas durante o relacionamento com empresas fornecedoras.
+
+CTA
+Solicite uma demonstração
+Veja como o Liberado pode apoiar os processos de homologação da sua empresa.
+SOLUÇÕES CASO DE USO -
+Compliance
+PÁGINA | Compliance e Gestão de Riscos
+Objetivo da Página
+Demonstrar como o Liberado fortalece processos de compliance e gestão de riscos por
+meio de verificações, informações e análises sobre pessoas e empresas.
+Esta página deve posicionar a plataforma como uma aliada da governança corporativa,
+ajudando empresas a padronizar processos, reduzir riscos operacionais e aumentar a
+rastreabilidade das análises realizadas.
+
+Hero
+H1
+Fortaleça sua estratégia de compliance com mais controle e inteligência.
+Texto de apoio
+Empresas que crescem precisam de processos consistentes. O Liberado centraliza
+verificações, organiza informações e apoia análises para fortalecer políticas internas, reduzir
+riscos e aumentar a confiabilidade das decisões.
+
+Como o Liberado apoia sua estratégia de Compliance
+Padronize critérios de análise
+Defina políticas internas e aplique os mesmos critérios em processos de contratação,
+homologação de fornecedores, gestão de terceiros e demais operações que exigem análise
+de pessoas e empresas.
+
+Centralize informações
+Reúna verificações e consultas em uma única plataforma, facilitando o acesso às
+informações e reduzindo processos descentralizados.
+
+Fortaleça a governança
+Estruture processos mais consistentes para apoiar auditorias, controles internos e iniciativas
+de compliance.
+
+Tenha histórico e rastreabilidade
+Mantenha o registro das verificações realizadas, permitindo consultas futuras e maior
+controle sobre os processos.
+
+Como funciona
+Defina os critérios da sua empresa
+
+Realize as verificações
+
+Centralize as informações em uma única plataforma
+
+Analise os resultados
+
+Apoie decisões com mais controle e rastreabilidade
+
+Benefícios
+Mais consistência nos processos
+Padronize análises em diferentes áreas da empresa utilizando critérios previamente
+definidos.
+
+Mais controle
+Centralize informações e acompanhe processos com mais organização e transparência.
+Mais rastreabilidade
+Tenha histórico das verificações realizadas para apoiar auditorias e controles internos.
+
+Redução de riscos operacionais
+Utilize informações organizadas para fortalecer decisões relacionadas a pessoas,
+empresas, fornecedores e parceiros.
+
+CTA
+Fortaleça seus processos de compliance
+Conheça como o Liberado pode apoiar a governança e a gestão de riscos da sua empresa.
+Solicite uma demonstração.
+SOLUÇOES CASO DE USO -
+Prevenção/Fraude
+PÁGINA | Prevenção a Fraudes
+SEO
+URL
+/solucoes/prevencao-a-fraudes
+Palavra-chave principal
+Prevenção a Fraudes
+Meta Title
+Prevenção a Fraudes | Verificação de Pessoas e Empresas | Liberado
+Meta Description
+Utilize informações e análises para apoiar processos de prevenção a fraudes envolvendo
+pessoas e empresas.
+
+Hero
+H1
+Antecipe riscos antes que eles impactem sua operação.
+H2
+Fraudes podem acontecer em processos de contratação, cadastros, parcerias, fornecedores
+ou qualquer relacionamento envolvendo pessoas e empresas. Ter acesso às informações
+certas ajuda sua empresa a agir com mais segurança.
+
+Como o Liberado apoia esse processo
+Verificação de informações
+Consulte dados de pessoas e empresas em diferentes fontes para identificar
+inconsistências antes de seguir com um processo.
+Mais confiança para análises
+Reúna informações relevantes em um único ambiente para apoiar avaliações com mais
+agilidade.
+
+Apoio à prevenção
+Adicione uma camada extra de inteligência aos processos que exigem validação de
+informações.
+
+Integração à rotina da empresa
+Utilize o Liberado em diferentes etapas da operação, desde novos cadastros até
+relacionamentos já existentes.
+
+Fluxo do processo
+Recebimento da solicitação
+
+Consulta em múltiplas fontes
+
+Organização das informações
+
+Identificação de possíveis inconsistências
+
+Apoio à análise da empresa
+
+Benefícios
+Mais segurança para a operação
+Tenha acesso a informações que ajudam a identificar situações que merecem atenção.
+Redução de processos manuais
+Centralize consultas e facilite análises em uma única plataforma.
+
+Mais agilidade para equipes
+Obtenha informações rapidamente sem comprometer a qualidade da análise.
+
+Decisões mais consistentes
+Conte com informações organizadas para apoiar diferentes processos da empresa.
+
+CTA
+Solicite uma demonstração
+Descubra como o Liberado pode fortalecer os processos de prevenção a fraudes da sua
+empresa.
+PLANOS
+PÁGINA | Planos
+
+SEO On Page
+URL
+/planos
+Meta Title
+Planos Liberado
+Meta Description
+Compare os planos da Liberado e escolha a solução ideal para realizar verificações,
+análises e consultas de pessoas e empresas com mais agilidade e segurança.
+
+Objetivo da Página
+Apresentar os planos da Liberado de forma clara, permitindo que empresas comparem
+recursos e identifiquem a solução mais adequada para sua operação.
+A página deve facilitar a comparação entre os planos, destacar a evolução dos recursos e
+incentivar o contato com o time comercial para contratação.
+
+Hero
+
+H1
+Escolha o plano ideal para a sua operação.
+Texto de apoio
+Da validação de informações à automação completa de processos, a Liberado oferece
+planos que acompanham o crescimento da sua empresa.
+
+Compare os planos  Start  Basic  Standard Enterprise
+         Recursos
+Valor                R$       R$       R$         Consulte-no
+Acesso à plataforma  397/mês  797/mês  1.797/mês  s
+                                                  
+                                                  
+
+Consulta básica                                   
+                              --                  
+online                                            
+
+Consulta avançada --
+
+Integração via API   --
+
+Relatório Dossiê     --
+
+Destaque dos Planos
+
+Start
+Ideal para empresas que desejam iniciar seus processos de verificação utilizando a
+plataforma Liberado.
+CTA: Fale com um consultor
+
+Basic
+Plano recomendado para empresas que precisam de análises mais completas.
+Além das consultas básicas, inclui consultas avançadas e Relatório Dossiê para apoiar
+processos de contratação e validação.
+CTA: Fale com um consultor
+
+Standard
+Ideal para empresas que desejam integrar verificações diretamente aos seus sistemas.
+Inclui acesso via API, consultas avançadas e Relatório Dossiê.
+CTA: Fale com um consultor
+
+Enterprise
+Projetado para operações de grande porte que necessitam de soluções personalizadas, alto
+volume de consultas e integração conforme as necessidades do negócio.
+CTA: Fale com um consultor
+
+Todos os planos incluem
+     Plataforma em nuvem
+     Ambiente seguro
+     Atualizações contínuas
+     Atendimento especializado
+     Evolução constante da plataforma
+
+Perguntas Frequentes
+Posso mudar de plano depois?
+Sim. Conforme sua operação evolui, é possível migrar para um plano superior.
+
+O valor da API está incluso?
+A integração via API está disponível a partir do plano Standard.
+
+O plano Enterprise possui funcionalidades adicionais?
+Sim. O plano Enterprise é personalizado conforme o volume de consultas, integrações e
+necessidades da operação.
+
+Existe implantação?
+Nossa equipe orienta todo o processo de implantação e configuração da plataforma.
+
+CTA Final
+Ainda não sabe qual plano escolher?
+Nossa equipe pode ajudar você a identificar a melhor opção para o seu volume de
+consultas, integrações e processos.
+
+Fale com um consultor
+RECURSOS - Central de ajuda
+PÁGINA | Central de Ajuda
+
+SEO On Page
+URL
+/central-de-ajuda
+Meta Title
+Central de Ajuda | Liberado
+Meta Description
+Encontre respostas para as principais dúvidas sobre a plataforma Liberado.
+H1
+Como podemos ajudar?
+
+Hero
+Texto de apoio
+Encontre respostas para as dúvidas mais frequentes sobre a plataforma Liberado.
+Campo de pesquisa
+Pesquisar na Central de Ajuda
+
+Perguntas Frequentes
+Veja as principais dúvidas sobre a plataforma
+
+    1. O liberado está em acordo com a LGPD?
+
+Sim. O Liberado leva a sério a proteção de dados pessoais e está em total conformidade
+com a Lei Geral de Proteção de Dados (LGPD) do Brasil. A plataforma adota diversas
+medidas para garantir a segurança e a privacidade das informações dos usuários:
+Coleta e Processamento de Dados: Apenas os dados estritamente necessários são
+coletados, sempre com o consentimento explícito do usuário.
+Segurança da Informação: Utilizamos tecnologias avançadas para proteger os dados contra
+acessos não autorizados e vazamentos.
+Transparência: Informamos claramente como os dados são coletados, usados,
+armazenados e compartilhados.
+Direitos dos Titulares: Garantimos que os usuários possam acessar, corrigir e excluir seus
+dados, além de revogar consentimentos a qualquer momento.
+Treinamento e Conscientização: Nossa equipe é constantemente treinada para assegurar o
+cumprimento das normas da LGPD.
+
+Estamos comprometidos em proteger sua privacidade e garantir que suas informações
+sejam tratadas com o máximo respeito e segurança. Para mais detalhes, consulte nossa
+Política de Privacidade.
+
+    2. Quanto custa para usar o Liberado?
+O Liberado possui diferentes planos disponíveis, de acordo com o tamanho da sua empresa
+e o volume de pesquisas que você precisa. Você pagará uma assinatura para ter acesso à
+plataforma e também pelas pesquisas que realizar. Entre em contato com nossa equipe
+comercial para ter acesso à tabela completa de preços por tipo de pesquisa.
+
+    3. O Liberado pode ser usado em RH's e Condomínios?
+Sim, o Liberado foi desenvolvido para ser facilmente usado nesses modelos de serviço,
+proporcionando uma experiência de usuário fluida e sem complicações.
+
+    4. Existe algum suporte disponível caso tenhamos dúvidas ou problemas com o
+         Liberado?
+
+Com certeza! Nossa equipe de suporte está disponível para ajudar com qualquer questão
+ou dificuldade que você possa encontrar, garantindo que sua experiência com o Liberado
+seja sempre a melhor possível.
+
+    5. Quanto tempo leva para obter os resultados de uma verificação de
+         antecedentes?
+
+A verificação é realizada em tempo real e os resultados são gerados quase
+instantaneamente (em até 15 segundos), permitindo que decisões importantes sejam
+tomadas com rapidez e confiança.
+
+Precisa de ajuda?
+
+Não encontrou a resposta que procurava?
+
+Nossa equipe está pronta para ajudar.
+
+Entrar em contato com o suporte
+RECURSOS - Documentação API
+https://api.liberadoapp.com/docs
+INSTITUCIONAL - Quem somos
+PÁGINA | Quem Somos
+
+SEO On Page
+URL
+/quem-somos
+Meta Title
+Quem Somos | Liberado
+Meta Description
+Conheça a trajetória da Liberado, nossa missão, visão e os valores que orientam a
+construção das nossas soluções.
+
+Bloco 1 | Hero
+H1
+Conheça a empresa por trás da plataforma Liberado.
+H2
+A Liberado nasceu para simplificar processos que antes dependiam de análises manuais,
+diferentes fontes de informação e muito tempo operacional.
+Desde o início, nosso objetivo é transformar essa realidade por meio da tecnologia,
+tornando processos mais rápidos, organizados e eficientes para empresas de diferentes
+segmentos.
+
+Bloco 2 | Nossa Trajetória
+H2
+Nossa Trajetória
+A Liberado nasceu em São Paulo com um propósito claro: simplificar processos que, por
+muito tempo, consumiram tempo e recursos das empresas.
+Ao longo da nossa evolução, desenvolvemos soluções para tornar análises mais ágeis,
+organizadas e confiáveis, acompanhando as necessidades de empresas que buscam mais
+eficiência em suas operações.
+
+Bloco 3 | Missão
+H2
+Nossa Missão
+Automatizar processos por meio da tecnologia, unindo inteligência, agilidade e segurança
+para apoiar empresas na tomada de decisões mais confiáveis.
+
+Bloco 4 | Visão
+H2
+Nossa Visão
+Ser referência em soluções inteligentes para análise de informações e apoio à tomada de
+decisão, contribuindo para operações mais eficientes e seguras.
+
+Bloco 5 | Nossos Valores
+H2
+Nossos Valores
+Transparência
+Atuamos com clareza, responsabilidade e ética em todas as nossas relações.
+
+Segurança
+Tratamos informações com responsabilidade, seguindo boas práticas de proteção e
+privacidade de dados.
+Agilidade
+Buscamos reduzir processos manuais e tornar operações mais simples e eficientes.
+
+Inovação
+Evoluímos continuamente nossas soluções para acompanhar as necessidades do mercado.
+
+Compromisso
+Construímos relações de confiança, buscando gerar valor para nossos clientes em cada
+entrega.
+
+Bloco 6 | Encerramento
+H2
+Construímos tecnologia para empresas que precisam evoluir seus processos.
+A Liberado segue desenvolvendo soluções para apoiar empresas em um cenário cada vez
+mais dinâmico, conectando tecnologia, eficiência e confiança.
+INSTITUCIONAL - Segurança e LGPD
+PÁGINA | Segurança e LGPD
+
+SEO On Page
+URL
+/seguranca-e-lgpd
+Meta Title
+Segurança e LGPD | Liberado
+Meta Description
+Conheça os compromissos da Liberado com segurança, privacidade e proteção de dados.
+
+Bloco 1 | Hero
+H1
+Segurança e privacidade como parte da nossa tecnologia.
+H2
+No Liberado, entendemos que informações confiáveis exigem responsabilidade. Por isso,
+desenvolvemos nossa plataforma seguindo boas práticas de segurança, privacidade e
+proteção de dados.
+
+Bloco 2 | Nosso compromisso com a proteção de dados
+H2
+Protegendo informações com responsabilidade e transparência.
+A segurança dos dados é parte fundamental da nossa operação.
+Trabalhamos para garantir que as informações sejam tratadas de forma responsável,
+transparente e alinhada aos princípios da Lei Geral de Proteção de Dados (LGPD).
+Bloco 3 | Nossos Pilares de Segurança
+H2
+Como protegemos as informações
+
+Privacidade e LGPD
+O tratamento das informações segue princípios de finalidade, necessidade, transparência e
+segurança, respeitando os direitos dos titulares de dados.
+
+Proteção de Dados
+Adotamos medidas técnicas e organizacionais para proteger informações contra acessos
+indevidos e garantir maior segurança durante todo o ciclo de tratamento dos dados.
+
+Controle de Acesso
+Utilizamos controles de permissão para garantir que usuários tenham acesso apenas às
+informações necessárias para sua atuação dentro da plataforma.
+
+Rastreabilidade e Auditoria
+Mantemos registros das operações realizadas na plataforma, permitindo maior controle e
+transparência sobre as atividades executadas.
+
+Segurança da Infraestrutura
+Nossa plataforma utiliza uma infraestrutura tecnológica preparada para oferecer
+disponibilidade, desempenho e proteção dos dados tratados.
+
+Governança e Responsabilidade
+Acompanhamos continuamente nossas práticas de segurança e privacidade para evoluir
+nossos processos e manter um ambiente confiável para nossos clientes.
+Bloco 4 | Transparência no uso das informações
+
+H2
+Compromisso com o uso responsável dos dados.
+A Liberado utiliza informações exclusivamente para finalidades legítimas relacionadas aos
+serviços contratados por seus clientes.
+Não comercializamos dados ou bases de informações. Nosso compromisso é oferecer
+tecnologia para apoiar processos de análise de forma responsável, segura e transparente.
+
+Bloco 5 | Documentos relacionados
+
+H2
+Conheça nossas políticas
+Disponibilizamos documentos que apresentam nossas práticas, responsabilidades e
+compromissos relacionados ao uso da plataforma.
+
+     Política de Privacidade
+     Termos de Uso
+INSTITUCIONAL - Política de
+Privacidade
+PÁGINA | Política de Privacidade
+
+SEO On Page
+URL
+/politica-de-privacidade
+Meta Title
+Política de Privacidade | Liberado
+Meta Description
+Conheça como a Liberado trata, protege e utiliza informações pessoais em sua plataforma,
+seguindo boas práticas de privacidade e a LGPD.
+
+Bloco 1 | Introdução
+H1
+Política de Privacidade
+H2
+Nosso compromisso com a proteção e o uso responsável das informações.
+A Liberado respeita a privacidade de usuários, clientes e titulares de dados e adota medidas
+para garantir que as informações tratadas pela plataforma sejam utilizadas de forma segura,
+transparente e alinhada à Lei Geral de Proteção de Dados (LGPD).
+Última atualização: Junho de 2026.
+
+Bloco 2 | Dados tratados pela plataforma
+H2
+Quais informações podem ser tratadas?
+Dependendo da utilização dos serviços, a Liberado pode tratar diferentes categorias de
+informações para disponibilizar suas funcionalidades e realizar consultas solicitadas pelos
+clientes.
+
+H3 | Dados cadastrais
+Informações utilizadas para realização de consultas, validações e utilização da plataforma.
+Exemplos:
+
+     Nome;
+     CPF;
+     CNPJ;
+     Dados de contato;
+     Informações empresariais.
+
+H3 | Dados utilizados nas consultas
+Informações consultadas por meio das integrações disponíveis na plataforma, provenientes
+de fontes oficiais e bases autorizadas.
+
+H3 | Dados técnicos de utilização
+Informações relacionadas ao uso da plataforma, como registros de acesso, logs e dados
+necessários para segurança e funcionamento dos serviços.
+
+Bloco 3 | Como utilizamos as informações
+
+H2
+Utilizamos informações para oferecer análises mais seguras e eficientes.
+As informações tratadas pela Liberado podem ser utilizadas para:
+
+     Realizar consultas e validações solicitadas pelos clientes;
+     Disponibilizar resultados de análises pela plataforma;
+     Garantir segurança e funcionamento dos serviços;
+     Melhorar produtos e funcionalidades;
+     Cumprir obrigações legais e regulatórias.
+Bloco 4 | Bases legais para tratamento de dados
+H2
+Tratamento de dados conforme a LGPD.
+A Liberado realiza o tratamento de informações considerando as bases legais previstas na
+legislação brasileira, incluindo:
+
+H3 | Consentimento
+Quando aplicável, mediante autorização do titular dos dados.
+
+H3 | Execução de contrato
+Quando necessário para disponibilizar os serviços contratados pelos clientes.
+
+H3 | Legítimo interesse
+Quando aplicável, respeitando os direitos e garantias dos titulares.
+
+H3 | Cumprimento de obrigação legal
+Quando necessário para atender determinações previstas em lei.
+
+Bloco 5 | Responsabilidade dos clientes
+H2
+Uso responsável das informações consultadas.
+Os clientes da Liberado são responsáveis por utilizar as informações obtidas pela
+plataforma de acordo com suas finalidades legítimas, respeitando a legislação aplicável e os
+direitos dos titulares.
+A utilização dos serviços deve ocorrer de forma ética, transparente e em conformidade com
+a LGPD.
+
+Bloco 6 | Compartilhamento de informações
+H2
+Como compartilhamos informações.
+A Liberado não comercializa dados pessoais.
+As informações podem ser compartilhadas quando necessário para:
+
+     Prestação dos serviços contratados;
+     Operação e manutenção da plataforma;
+     Cumprimento de obrigações legais;
+     Atendimento a solicitações autorizadas ou previstas em legislação.
+
+Bloco 7 | Segurança das informações
+H2
+Proteção dos dados tratados.
+A Liberado adota medidas técnicas e organizacionais para proteger as informações contra
+acessos não autorizados, uso indevido, perda ou alterações indevidas.
+Para conhecer nossas práticas de segurança, acesse:
+Segurança e LGPD
+
+Bloco 8 | Direitos dos titulares
+H2
+Seus direitos sobre os dados pessoais.
+Nos termos da LGPD, os titulares podem solicitar informações relacionadas ao tratamento
+de seus dados, incluindo:
+
+     Confirmação da existência de tratamento;
+     Acesso aos dados;
+     Correção de informações;
+     Solicitações relacionadas ao tratamento dos dados.
+
+Bloco 9 | Cookies e tecnologias
+H2
+Uso de cookies e tecnologias semelhantes.
+A Liberado pode utilizar cookies e tecnologias similares para garantir o funcionamento da
+plataforma, melhorar a experiência de navegação e compreender a utilização dos
+ambientes digitais.
+
+Bloco 10 | Contato
+H2
+Para dúvidas relacionadas à privacidade, proteção de dados ou exercício de direitos
+previstos na LGPD, entre em contato pelos canais oficiais da Liberado.
+INSTITUCIONAL - Termos de Uso
+PÁGINA | Termos de Uso
+
+SEO On Page
+URL
+/termos-de-uso
+Meta Title
+Termos de Uso | Liberado
+Meta Description
+Consulte os Termos de Uso da Liberado e conheça as regras, responsabilidades e
+condições para utilização da nossa plataforma.
+
+Bloco 1 | Hero
+H1
+Termos de Uso
+H2
+Conheça as condições, responsabilidades e diretrizes para utilização da plataforma
+Liberado.
+Última atualização: Junho de 2026.
+
+Bloco 2 | Escopo do Serviço
+1. Sobre a Plataforma
+A Liberado disponibiliza uma plataforma tecnológica para apoio à análise de informações,
+consultas e validações realizadas por empresas, utilizando dados provenientes de fontes
+autorizadas e legítimas.
+A utilização da plataforma permite que clientes realizem processos de análise de acordo
+com suas necessidades operacionais, respeitando as legislações aplicáveis.
+Bloco 3 | Responsabilidade do Usuário
+2. Uso das Informações
+Ao utilizar a plataforma para realizar consultas ou validações envolvendo pessoas ou
+empresas, o usuário declara possuir uma finalidade legítima e responsabilidade pelo
+tratamento das informações utilizadas.
+O usuário deve garantir que suas atividades estejam em conformidade com a legislação
+brasileira aplicável, incluindo a Lei Geral de Proteção de Dados (LGPD).
+
+Bloco 4 | Uso Adequado da Plataforma
+3. Restrições de Uso
+A plataforma não deve ser utilizada para práticas discriminatórias, ilícitas ou qualquer
+finalidade que viole direitos individuais, normas legais ou princípios de privacidade.
+A Liberado poderá adotar medidas necessárias para impedir usos inadequados ou que
+estejam em desacordo com estes Termos de Uso.
+
+Bloco 5 | Segurança e Auditoria
+4. Monitoramento e Segurança
+Para garantir a segurança da plataforma e prevenir usos indevidos, a Liberado poderá
+monitorar atividades realizadas no ambiente, incluindo registros técnicos e informações
+relacionadas às operações executadas.
+Essas medidas têm como objetivo preservar a segurança, a confiabilidade e o uso
+adequado dos serviços disponibilizados.
+
+Bloco 6 | Legislação Aplicável
+5. Foro e Legislação
+Estes Termos de Uso são regidos pelas leis da República Federativa do Brasil.
+Fica eleito o Foro da Comarca de São Paulo, SP, para resolver eventuais questões
+relacionadas à utilização da plataforma, conforme permitido pela legislação aplicável.
+
