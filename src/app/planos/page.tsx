@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import Section from "@/components/ui/Section";
 import Button from "@/components/ui/Button";
 import Reveal from "@/components/ui/Reveal";
@@ -171,6 +172,24 @@ export default function PlanosPage() {
             </span>
           ))}
         </div>
+      </Section>
+
+      <Section tone="tint">
+        <div className="mx-auto max-w-2xl text-center">
+          <SplitHeading as="h2" className="text-title text-2xl sm:text-3xl" text="Prefere preencher um formulário?" />
+          <Reveal delay={0.15}>
+            <p className="mt-4 text-base leading-relaxed text-navy-900/70">
+              Deixe seus dados que nossa equipe entra em contato para uma demonstração personalizada.
+            </p>
+          </Reveal>
+        </div>
+        <Reveal delay={0.2} className="mx-auto mt-10 max-w-xl">
+          <div id="gf-gorilaforms-20260818-slg-demo-contratacao-copia-8ulm" className="min-h-[200px]" />
+          <Script
+            src="https://www.gorilaforms.app/e/gorilaforms-20260818-slg-demo-contratacao-copia-8ulm.js"
+            strategy="afterInteractive"
+          />
+        </Reveal>
       </Section>
 
       <Section tone="light" roundedTop>
