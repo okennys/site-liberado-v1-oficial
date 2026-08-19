@@ -11,7 +11,7 @@ import { whatsappLink } from "@/data/whatsapp";
 export const metadata: Metadata = {
   title: "Planos",
   description:
-    "Compare os planos da Liberado e escolha a solução ideal para realizar verificações, análises e consultas de pessoas e empresas com mais agilidade e segurança.",
+    "Compare os planos do Liberado e escolha a solução ideal para realizar verificações, análises e consultas de pessoas e empresas com mais agilidade e segurança.",
 };
 
 const planos = [
@@ -101,7 +101,7 @@ export default function PlanosPage() {
           <SplitHeading as="h1" className="text-title text-4xl sm:text-5xl" text="Escolha o plano ideal para a sua operação." />
           <Reveal delay={0.15}>
             <p className="mt-6 text-base leading-relaxed text-white/70 sm:text-lg">
-              Da validação de informações à automação completa de processos, a Liberado oferece planos
+              Da validação de informações à automação completa de processos, o Liberado oferece planos
               que acompanham o crescimento da sua empresa.
             </p>
           </Reveal>

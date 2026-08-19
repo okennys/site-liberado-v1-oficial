@@ -6,7 +6,7 @@ import SplitHeading from "@/components/ui/SplitHeading";
 export const metadata: Metadata = {
   title: "Política de Privacidade",
   description:
-    "Conheça como a Liberado trata, protege e utiliza informações pessoais em sua plataforma, seguindo boas práticas de privacidade e a LGPD.",
+    "Conheça como o Liberado trata, protege e utiliza informações pessoais em sua plataforma, seguindo boas práticas de privacidade e a LGPD.",
 };
 
 export default function PoliticaDePrivacidadePage() {
@@ -16,7 +16,7 @@ export default function PoliticaDePrivacidadePage() {
         <div className="relative max-w-2xl">
           <SplitHeading as="h1" className="text-title text-4xl sm:text-5xl" text="Política de Privacidade" />
           <p className="mt-6 text-base leading-relaxed text-white/70 sm:text-lg">
-            Nosso compromisso com a proteção e o uso responsável das informações. A Liberado respeita a
+            Nosso compromisso com a proteção e o uso responsável das informações. O Liberado respeita a
             privacidade de usuários, clientes e titulares de dados e adota medidas para garantir que as
             informações tratadas pela plataforma sejam utilizadas de forma segura, transparente e
             alinhada à Lei Geral de Proteção de Dados (LGPD).
@@ -30,7 +30,7 @@ export default function PoliticaDePrivacidadePage() {
           <div>
             <h2 className="text-title text-xl text-navy-900 sm:text-2xl">Quais informações podem ser tratadas?</h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
-              Dependendo da utilização dos serviços, a Liberado pode tratar diferentes categorias de
+              Dependendo da utilização dos serviços, o Liberado pode tratar diferentes categorias de
               informações para disponibilizar suas funcionalidades e realizar consultas solicitadas
               pelos clientes.
             </p>
@@ -66,7 +66,7 @@ export default function PoliticaDePrivacidadePage() {
               Utilizamos informações para oferecer análises mais seguras e eficientes.
             </h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
-              As informações tratadas pela Liberado podem ser utilizadas para:
+              As informações tratadas pelo Liberado podem ser utilizadas para:
             </p>
             <ul className="mt-2 list-disc pl-5 text-sm leading-relaxed text-navy-900/70">
               <li>Realizar consultas e validações solicitadas pelos clientes</li>
@@ -80,7 +80,7 @@ export default function PoliticaDePrivacidadePage() {
           <div>
             <h2 className="text-title text-xl text-navy-900 sm:text-2xl">Tratamento de dados conforme a LGPD.</h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
-              A Liberado realiza o tratamento de informações considerando as bases legais previstas na
+              O Liberado realiza o tratamento de informações considerando as bases legais previstas na
               legislação brasileira, incluindo:
             </p>
 
@@ -102,7 +102,7 @@ export default function PoliticaDePrivacidadePage() {
           <div>
             <h2 className="text-title text-xl text-navy-900 sm:text-2xl">Uso responsável das informações consultadas.</h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
-              Os clientes da Liberado são responsáveis por utilizar as informações obtidas pela
+              Os clientes do Liberado são responsáveis por utilizar as informações obtidas pela
               plataforma de acordo com suas finalidades legítimas, respeitando a legislação aplicável e
               os direitos dos titulares. A utilização dos serviços deve ocorrer de forma ética,
               transparente e em conformidade com a LGPD.
@@ -112,7 +112,7 @@ export default function PoliticaDePrivacidadePage() {
           <div>
             <h2 className="text-title text-xl text-navy-900 sm:text-2xl">Como compartilhamos informações.</h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
-              A Liberado não comercializa dados pessoais. As informações podem ser compartilhadas quando
+              O Liberado não comercializa dados pessoais. As informações podem ser compartilhadas quando
               necessário para:
             </p>
             <ul className="mt-2 list-disc pl-5 text-sm leading-relaxed text-navy-900/70">
@@ -126,7 +126,7 @@ export default function PoliticaDePrivacidadePage() {
           <div>
             <h2 className="text-title text-xl text-navy-900 sm:text-2xl">Proteção dos dados tratados.</h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
-              A Liberado adota medidas técnicas e organizacionais para proteger as informações contra
+              O Liberado adota medidas técnicas e organizacionais para proteger as informações contra
               acessos não autorizados, uso indevido, perda ou alterações indevidas. Para conhecer nossas
               práticas de segurança, acesse{" "}
               <Link href="/seguranca-e-lgpd" className="font-semibold text-brand-blue underline">
@@ -153,7 +153,7 @@ export default function PoliticaDePrivacidadePage() {
           <div>
             <h2 className="text-title text-xl text-navy-900 sm:text-2xl">Uso de cookies e tecnologias semelhantes.</h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
-              A Liberado pode utilizar cookies e tecnologias similares para garantir o funcionamento da
+              O Liberado pode utilizar cookies e tecnologias similares para garantir o funcionamento da
               plataforma, melhorar a experiência de navegação e compreender a utilização dos ambientes
               digitais.
             </p>
@@ -163,7 +163,7 @@ export default function PoliticaDePrivacidadePage() {
             <h2 className="text-title text-xl text-navy-900 sm:text-2xl">Contato</h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
               Para dúvidas relacionadas à privacidade, proteção de dados ou exercício de direitos
-              previstos na LGPD, entre em contato pelos canais oficiais da Liberado.
+              previstos na LGPD, entre em contato pelos canais oficiais do Liberado.
             </p>
           </div>
         </div>

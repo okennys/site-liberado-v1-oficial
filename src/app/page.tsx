@@ -35,7 +35,7 @@ const fluxoCards = [
   },
   {
     title: "Consulta automatizada nas fontes de informação",
-    text: "A Liberado realiza consultas utilizando integrações tecnológicas com diferentes fontes oficiais e bases especializadas, entre elas órgãos públicos, tribunais, bases cadastrais e parceiros de informação.",
+    text: "O Liberado realiza consultas utilizando integrações tecnológicas com diferentes fontes oficiais e bases especializadas, entre elas órgãos públicos, tribunais, bases cadastrais e parceiros de informação.",
   },
   {
     title: "Organização e processamento dos dados",
@@ -50,7 +50,7 @@ const fluxoCards = [
 const tecnologiaCards = [
   {
     title: "Integração via API",
-    text: "Conecte a Liberado aos sistemas da empresa para automatizar consultas e criar fluxos integrados aos processos internos.",
+    text: "Conecte o Liberado aos sistemas da empresa para automatizar consultas e criar fluxos integrados aos processos internos.",
   },
   {
     title: "Automação via RPA",
@@ -58,7 +58,7 @@ const tecnologiaCards = [
   },
   {
     title: "Conexão com fontes oficiais e especializadas",
-    text: "A Liberado integra informações provenientes de fontes públicas e privadas, incluindo órgãos oficiais, tribunais e bases especializadas.",
+    text: "O Liberado integra informações provenientes de fontes públicas e privadas, incluindo órgãos oficiais, tribunais e bases especializadas.",
   },
   {
     title: "Dados organizados em uma única plataforma",
@@ -347,7 +347,7 @@ export default function HomePage() {
       {/* Bloco 4 | Testemunho */}
       <Section tone="tint" roundedTop>
         <ScrollBlurQuote
-          quote="A Liberado não apenas simplificou nossas verificações — trouxe agilidade e confiança para decisões que antes levavam dias."
+          quote="O Liberado não apenas simplificou nossas verificações — trouxe agilidade e confiança para decisões que antes levavam dias."
           author="Depoimento de cliente · em breve"
           className="mx-auto max-w-3xl"
         />
@@ -374,7 +374,7 @@ export default function HomePage() {
               Confiança em cada decisão
             </p>
             <p className="text-title mt-3 text-lg leading-snug text-white sm:text-2xl lg:text-3xl">
-              Cada verificação da Liberado é <Highlight tone="navy">registrada e rastreável</Highlight> —
+              Cada verificação do Liberado é <Highlight tone="navy">registrada e rastreável</Highlight> —
               construída para gerar confiança do primeiro acesso à decisão final.
             </p>
           </div>
@@ -498,7 +498,7 @@ export default function HomePage() {
       {/* Bloco 10 | Painel de destaque (estilo Migital: headline + lista + CTA em bloco escuro) */}
       <Section tone="tint">
         <FeaturePanel
-          eyebrow="Por que a Liberado"
+          eyebrow="Por que o Liberado"
           title="Uma plataforma completa para decisões mais seguras."
           text="Reúna verificações de pessoas, empresas e documentos com dados confiáveis e inteligência artificial — sem depender de múltiplos sistemas."
           items={[

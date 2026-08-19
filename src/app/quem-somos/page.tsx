@@ -6,7 +6,7 @@ import Reveal from "@/components/ui/Reveal";
 export const metadata: Metadata = {
   title: "Quem Somos",
   description:
-    "Conheça a trajetória da Liberado, nossa missão, visão e os valores que orientam a construção das nossas soluções.",
+    "Conheça a trajetória do Liberado, nossa missão, visão e os valores que orientam a construção das nossas soluções.",
 };
 
 const valores = [
@@ -42,7 +42,7 @@ export default function QuemSomosPage() {
             Conheça a empresa por trás da plataforma Liberado.
           </h1>
           <p className="mt-6 max-w-2xl text-base leading-relaxed text-white/70 sm:text-lg">
-            A Liberado nasceu para simplificar processos que antes dependiam de análises manuais,
+            O Liberado nasceu para simplificar processos que antes dependiam de análises manuais,
             diferentes fontes de informação e muito tempo operacional. Desde o início, nosso
             objetivo é transformar essa realidade por meio da tecnologia, tornando processos mais
             rápidos, organizados e eficientes para empresas de diferentes segmentos.
@@ -55,7 +55,7 @@ export default function QuemSomosPage() {
         <div className="max-w-2xl">
           <h2 className="text-title text-2xl sm:text-3xl">Nossa Trajetória</h2>
           <p className="mt-4 text-base leading-relaxed text-navy-900/70">
-            A Liberado nasceu em São Paulo com um propósito claro: simplificar processos que, por
+            O Liberado nasceu em São Paulo com um propósito claro: simplificar processos que, por
             muito tempo, consumiram tempo e recursos das empresas. Ao longo da nossa evolução,
             desenvolvemos soluções para tornar análises mais ágeis, organizadas e confiáveis,
             acompanhando as necessidades de empresas que buscam mais eficiência em suas
@@ -103,7 +103,7 @@ export default function QuemSomosPage() {
             Construímos tecnologia para empresas que precisam evoluir seus processos.
           </h2>
           <p className="mt-4 text-base leading-relaxed text-white/70">
-            A Liberado segue desenvolvendo soluções para apoiar empresas em um cenário cada vez
+            O Liberado segue desenvolvendo soluções para apoiar empresas em um cenário cada vez
             mais dinâmico, conectando tecnologia, eficiência e confiança.
           </p>
         </div>

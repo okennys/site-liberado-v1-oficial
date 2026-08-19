@@ -5,7 +5,7 @@ import SplitHeading from "@/components/ui/SplitHeading";
 export const metadata: Metadata = {
   title: "Termos de Uso",
   description:
-    "Consulte os Termos de Uso da Liberado e conheça as regras, responsabilidades e condições para utilização da nossa plataforma.",
+    "Consulte os Termos de Uso do Liberado e conheça as regras, responsabilidades e condições para utilização da nossa plataforma.",
 };
 
 export default function TermosDeUsoPage() {
@@ -26,7 +26,7 @@ export default function TermosDeUsoPage() {
           <div>
             <h2 className="text-title text-xl text-navy-900 sm:text-2xl">1. Sobre a Plataforma</h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
-              A Liberado disponibiliza uma plataforma tecnológica para apoio à análise de informações,
+              O Liberado disponibiliza uma plataforma tecnológica para apoio à análise de informações,
               consultas e validações realizadas por empresas, utilizando dados provenientes de fontes
               autorizadas e legítimas. A utilização da plataforma permite que clientes realizem
               processos de análise de acordo com suas necessidades operacionais, respeitando as
@@ -49,7 +49,7 @@ export default function TermosDeUsoPage() {
             <h2 className="text-title text-xl text-navy-900 sm:text-2xl">3. Restrições de Uso</h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
               A plataforma não deve ser utilizada para práticas discriminatórias, ilícitas ou qualquer
-              finalidade que viole direitos individuais, normas legais ou princípios de privacidade. A
+              finalidade que viole direitos individuais, normas legais ou princípios de privacidade. O
               Liberado poderá adotar medidas necessárias para impedir usos inadequados ou que estejam em
               desacordo com estes Termos de Uso.
             </p>
@@ -58,7 +58,7 @@ export default function TermosDeUsoPage() {
           <div>
             <h2 className="text-title text-xl text-navy-900 sm:text-2xl">4. Monitoramento e Segurança</h2>
             <p className="mt-3 text-base leading-relaxed text-navy-900/70">
-              Para garantir a segurança da plataforma e prevenir usos indevidos, a Liberado poderá
+              Para garantir a segurança da plataforma e prevenir usos indevidos, o Liberado poderá
               monitorar atividades realizadas no ambiente, incluindo registros técnicos e informações
               relacionadas às operações executadas. Essas medidas têm como objetivo preservar a
               segurança, a confiabilidade e o uso adequado dos serviços disponibilizados.

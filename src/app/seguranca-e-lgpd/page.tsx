@@ -7,7 +7,7 @@ import SplitHeading from "@/components/ui/SplitHeading";
 
 export const metadata: Metadata = {
   title: "Segurança e LGPD",
-  description: "Conheça os compromissos da Liberado com segurança, privacidade e proteção de dados.",
+  description: "Conheça os compromissos do Liberado com segurança, privacidade e proteção de dados.",
 };
 
 const pilares = [
@@ -82,7 +82,7 @@ export default function SegurancaLgpdPage() {
           <SplitHeading as="h2" className="text-title text-2xl sm:text-3xl" text="Compromisso com o uso responsável dos dados." />
           <Reveal delay={0.15}>
             <p className="mt-4 text-base leading-relaxed text-navy-900/70">
-              A Liberado utiliza informações exclusivamente para finalidades legítimas relacionadas aos
+              O Liberado utiliza informações exclusivamente para finalidades legítimas relacionadas aos
               serviços contratados por seus clientes. Não comercializamos dados ou bases de informações.
               Nosso compromisso é oferecer tecnologia para apoiar processos de análise de forma
               responsável, segura e transparente.
